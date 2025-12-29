@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    background-color: rgb(35, 85, 87);
+    color: white;
+}
+
+#titulo{
+    color: rgb(225, 255, 0);
+}
+
+.contenedor {
+    color: blue;
+    font-size: 16px;
+}
+
+
+.contenedor p {
+    margin: 5px;
+}
+
+
+.textoDiferente {
+    color: red;
+}
